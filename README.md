@@ -24,6 +24,7 @@ Cada bloco tem uma probabilidade igual de ser substituído, independentemente de
 
 Para utilizacao deste simulador use o seguinte comando:
 python cache_simulator <nsets> <bsize> <assoc> <substituição> <flag_saida> arquivo_de_entrada
+*Certifique-se de que os arquivos de entrada se encontram no mesmo diretorio do programa python
 
 
 Onde cada um destes campos possui o seguinte significado:
